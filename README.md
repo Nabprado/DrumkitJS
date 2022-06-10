@@ -1,1 +1,2 @@
-# Drumkit with Javascript
+# Drumkit
+HTML, CSS and Javascript
